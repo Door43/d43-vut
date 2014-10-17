@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vut:home|Door43 (vut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vut|d43-vut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vut/archive/master.zip|d43-vut.zip]]
+
+**Recent Changes**
+{{changes>ns = vut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vut|Ethnologue data]]
+
